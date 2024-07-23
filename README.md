@@ -32,7 +32,8 @@ I'm always open to collaborating on exciting data projects. Feel free to check o
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[[![MIT License][license-shield]][license-url]](https://custom-icon-badges.demolab.com/badge/-lajoiechristopher82@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white
+)
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/christopher-lajoie-82063430b)
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white

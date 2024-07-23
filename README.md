@@ -28,7 +28,10 @@ I'm always open to collaborating on exciting data projects. Feel free to check o
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+<a href="mailto:lajoiechristopher82@gmail.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/-hermione@spew.co.uk-red?style=for-the-badge&logo=mention&logoColor=white" alt="Email Badge">
+</a>
+
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]

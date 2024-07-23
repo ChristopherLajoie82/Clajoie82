@@ -29,7 +29,7 @@ I'm always open to collaborating on exciting data projects. Feel free to check o
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <a href="mailto:lajoiechristopher82@gmail.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/-hermione@spew.co.uk-red?style=for-the-badge&logo=mention&logoColor=white" alt="Email Badge">
+    <img src="https://custom-icon-badges.demolab.com/badge/-lajoiechristopher82@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Email Badge">
 </a>
 
 [![Forks][forks-shield]][forks-url]

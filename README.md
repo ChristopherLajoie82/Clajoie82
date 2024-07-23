@@ -28,6 +28,8 @@ I'm always open to collaborating on exciting data projects. Feel free to check o
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
+https://custom-icon-badges.demolab.com/badge/-My%20Repos-red?style=for-the-badge&logoColor=white&logo=repo
 <a href="mailto:lajoiechristopher82@gmail.com">
     <img src="https://custom-icon-badges.demolab.com/badge/-lajoiechristopher82@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" alt="Email Badge">
 </a>

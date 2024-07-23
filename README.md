@@ -1,4 +1,3 @@
-About Me
 👋 Hi I'm a passionate Data Analyst with expertise in transforming raw data into meaningful insights. With a strong foundation in statistical analysis and data visualization, I aim to drive data-driven decision-making in various industries.
 
 Skills

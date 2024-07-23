@@ -33,7 +33,7 @@ I'm always open to collaborating on exciting data projects. Feel free to check o
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][www.linkedin.com/in/christopher-lajoie-82063430b]
+[![www.linkedin.com/in/christopher-lajoie-82063430b][linkedin-shield]][linkedin-url]
 
 
 
